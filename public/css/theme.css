@@ -1,0 +1,58 @@
+
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+a:hover {
+    text-decoration: none;
+}
+.theme-dropdown .dropdown-menu {
+    display: block;
+    position: static;
+    margin-bottom: 20px;
+}
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+.signup-panel {
+    font-size: 12px;
+}
+
+
+.slide-new-member .image-crop {
+    overflow: hidden;
+    height: 400px;
+}
+
+
+.slide-new-member .thumbnail {
+    min-height: 288px;
+}
+.color-primary {
+   color:  #3a87ad;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .slide-new-member .image-crop {
+        overflow: hidden;
+        height: 250px;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .slide-new-member .image-crop {
+        overflow: hidden;
+        height: 180px;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .slide-new-member .image-crop {
+        overflow: hidden;
+        height: 180px;
+    }
+}

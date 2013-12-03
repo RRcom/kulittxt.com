@@ -23,15 +23,140 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Module.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/Sample/Module.php">
+      <file leaf-file-name="default.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/KulittxtPage/view/layout/default.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="5" selection-start="493" selection-end="493" vertical-scroll-proportion="0.714" vertical-offset="0" max-vertical-offset="663">
+            <state line="35" column="31" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="884">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Controller/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="57" selection-start="391" selection-end="391" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="357">
               <folding>
-                <element signature="e#25#58#0" expanded="true" />
-                <element signature="e#102#337#0" expanded="true" />
-                <element signature="e#343#444#0" expanded="true" />
+                <element signature="e#42#91#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/KulittxtPage/view/page/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="176" selection-start="3464" selection-end="3464" vertical-scroll-proportion="-11.653846" vertical-offset="683" max-vertical-offset="1564">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringHelper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Library/StringHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="38" selection-start="280" selection-end="280" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1445">
+              <folding>
+                <element signature="e#313#573#0" expanded="true" />
+                <element signature="e#578#656#0" expanded="true" />
+                <element signature="e#995#1227#0" expanded="false" />
+                <element signature="e#1037#1145#0" expanded="false" />
+                <element signature="e#1164#1227#0" expanded="false" />
+                <element signature="e#3247#3329#0" expanded="false" />
+                <element signature="e#3822#5142#0" expanded="false" />
+                <element signature="e#3858#3913#0" expanded="false" />
+                <element signature="e#4010#4776#0" expanded="false" />
+                <element signature="e#4042#4540#0" expanded="false" />
+                <element signature="e#4095#4204#0" expanded="false" />
+                <element signature="e#4225#4344#0" expanded="false" />
+                <element signature="e#4365#4434#0" expanded="false" />
+                <element signature="e#4455#4522#0" expanded="false" />
+                <element signature="e#4585#4724#0" expanded="false" />
+                <element signature="e#4817#4901#0" expanded="false" />
+                <element signature="e#4943#5132#0" expanded="false" />
+                <element signature="e#6159#6247#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextHelper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Library/TextHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="83" column="31" selection-start="2099" selection-end="2099" vertical-scroll-proportion="-17.653847" vertical-offset="731" max-vertical-offset="4369">
+              <folding>
+                <element signature="e#308#545#0" expanded="true" />
+                <element signature="e#550#932#0" expanded="true" />
+                <element signature="e#636#702#0" expanded="false" />
+                <element signature="e#792#880#0" expanded="false" />
+                <element signature="e#1015#1433#0" expanded="true" />
+                <element signature="e#2484#3798#0" expanded="true" />
+                <element signature="e#2603#3770#0" expanded="false" />
+                <element signature="e#2711#3760#0" expanded="false" />
+                <element signature="e#2761#2969#0" expanded="false" />
+                <element signature="e#2986#3134#0" expanded="false" />
+                <element signature="e#3196#3760#0" expanded="false" />
+                <element signature="e#3231#3344#0" expanded="false" />
+                <element signature="e#3399#3746#0" expanded="false" />
+                <element signature="e#4069#5269#0" expanded="true" />
+                <element signature="e#4136#5036#0" expanded="false" />
+                <element signature="e#4210#5026#0" expanded="false" />
+                <element signature="e#4369#4944#0" expanded="false" />
+                <element signature="e#4483#4671#0" expanded="false" />
+                <element signature="e#4688#4944#0" expanded="false" />
+                <element signature="e#5046#5241#0" expanded="false" />
+                <element signature="e#5085#5230#0" expanded="false" />
+                <element signature="e#5759#6820#0" expanded="true" />
+                <element signature="e#5837#5909#0" expanded="false" />
+                <element signature="e#5949#6011#0" expanded="false" />
+                <element signature="e#6299#6786#0" expanded="false" />
+                <element signature="e#6353#6776#0" expanded="false" />
+                <element signature="e#6569#6776#0" expanded="false" />
+                <element signature="e#7068#9007#0" expanded="true" />
+                <element signature="e#7479#7654#0" expanded="false" />
+                <element signature="e#8051#8270#0" expanded="false" />
+                <element signature="e#8785#8978#0" expanded="false" />
+                <element signature="e#9456#9806#0" expanded="true" />
+                <element signature="e#9568#9626#0" expanded="false" />
+                <element signature="e#9636#9778#0" expanded="false" />
+                <element signature="e#10045#10630#0" expanded="true" />
+                <element signature="e#10109#10431#0" expanded="false" />
+                <element signature="e#10302#10431#0" expanded="false" />
+                <element signature="e#10441#10520#0" expanded="false" />
+                <element signature="e#10713#11072#0" expanded="true" />
+                <element signature="e#11077#13847#0" expanded="true" />
+                <element signature="e#11354#11472#0" expanded="false" />
+                <element signature="e#11641#11946#0" expanded="false" />
+                <element signature="e#11732#11936#0" expanded="false" />
+                <element signature="e#12333#13467#0" expanded="false" />
+                <element signature="e#12519#12642#0" expanded="false" />
+                <element signature="e#12680#13083#0" expanded="false" />
+                <element signature="e#12814#12924#0" expanded="false" />
+                <element signature="e#13259#13427#0" expanded="false" />
+                <element signature="e#13361#13427#0" expanded="false" />
+                <element signature="e#13509#13705#0" expanded="false" />
+                <element signature="e#13555#13695#0" expanded="false" />
+                <element signature="e#14326#14990#0" expanded="true" />
+                <element signature="e#14537#14614#0" expanded="false" />
+                <element signature="e#14743#14947#0" expanded="false" />
+                <element signature="e#14859#14947#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/css/theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="19" selection-start="961" selection-end="961" vertical-scroll-proportion="0.83374083" vertical-offset="253" max-vertical-offset="1071">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,7 +171,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/module/Sample/Module.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/view/error/404.phtml" />
+        <option value="$PROJECT_DIR$/config/autoload/zdt.local.php" />
+        <option value="$PROJECT_DIR$/module/Application/config/module.config.php" />
+        <option value="$PROJECT_DIR$/config/application.config.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/view/page/album.phtml" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Controller/AlbumController.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/config/module.config.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/Module.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Module.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/public/css/theme.css" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/view/layout/default.phtml" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Library/StringHelper.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Library/TextHelper.php" />
+        <option value="$PROJECT_DIR$/module/KulittxtPage/view/page/index.phtml" />
+        <option value="$PROJECT_DIR$/public/css/theme.css" />
       </list>
     </option>
   </component>
@@ -112,6 +252,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="module" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -130,7 +302,215 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kulittxt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KulittxtPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -141,14 +521,14 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="options.lastSelected" value="preferences.general" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
   </component>
   <component name="PublishConfig" serverName="kulittxt.com" serverId="4833f876-7d3a-4bff-b56f-cc8b109621dd">
     <servers>
@@ -182,6 +562,15 @@
       </server>
     </servers>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\kulittxt.com\public\css" />
+      <recent name="C:\xampp\htdocs\kulittxt.com\module\KulittxtPage\src\KulittxtPage" />
+      <recent name="C:\xampp\htdocs\kulittxt.com\module\KulittxtPage\src\KulittxtPage\Controller" />
+      <recent name="C:\xampp\htdocs\kulittxt.com\module\KulittxtPage\view\page" />
+      <recent name="C:\xampp\htdocs\kulittxt.com\module\KulittxtPage\view\error" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
@@ -193,7 +582,7 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="4833f876-7d3a-4bff-b56f-cc8b109621dd" server_name="kulittxt.com">
       <method />
     </configuration>
     <list size="0" />
@@ -208,29 +597,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="1" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056873" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298217" sideWeight="0.66943127" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.66943127" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22933549" sideWeight="0.66943127" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.66943127" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33056873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -245,77 +634,191 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/config/services.config.php">
+    <entry file="file://$PROJECT_DIR$/module/Application/config/module.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="807">
-          <folding />
-        </state>
+        <state line="25" column="62" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1836" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/config/module.config.php">
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/config/module.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="82" selection-start="7005" selection-end="7005" vertical-scroll-proportion="0.21638924" vertical-offset="2143" max-vertical-offset="2924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/config/controllers.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="807">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-module/config/module.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-module/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
-          <folding />
-        </state>
+        <state line="54" column="24" selection-start="1929" selection-end="1929" vertical-scroll-proportion="1.1906614" vertical-offset="0" max-vertical-offset="1513" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+        <state line="4" column="8" selection-start="126" selection-end="126" vertical-scroll-proportion="0.08585858" vertical-offset="0" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-module/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-module/src/DoctrineModule/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="0" selection-start="2503" selection-end="2503" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="1836">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Sample/Module.php">
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Module.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="493" selection-end="493" vertical-scroll-proportion="0.714" vertical-offset="0" max-vertical-offset="663">
+        <state line="29" column="5" selection-start="711" selection-end="711" vertical-scroll-proportion="0.2361111" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="47" selection-start="53" selection-end="53" vertical-scroll-proportion="0.021464646" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/language/en_US.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/public/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="159" selection-end="159" vertical-scroll-proportion="0.16625917" vertical-offset="0" max-vertical-offset="818">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Controller/AlbumController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="324" selection-end="324" vertical-scroll-proportion="0.17171717" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/view/page/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="176" selection-start="3464" selection-end="3464" vertical-scroll-proportion="-11.653846" vertical-offset="683" max-vertical-offset="1564">
           <folding>
-            <element signature="e#25#58#0" expanded="true" />
-            <element signature="e#102#337#0" expanded="true" />
-            <element signature="e#343#444#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="57" selection-start="391" selection-end="391" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="357">
+          <folding>
+            <element signature="e#42#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/view/layout/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="31" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Library/StringHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="38" selection-start="280" selection-end="280" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1445">
+          <folding>
+            <element signature="e#313#573#0" expanded="true" />
+            <element signature="e#578#656#0" expanded="true" />
+            <element signature="e#995#1227#0" expanded="false" />
+            <element signature="e#1037#1145#0" expanded="false" />
+            <element signature="e#1164#1227#0" expanded="false" />
+            <element signature="e#3247#3329#0" expanded="false" />
+            <element signature="e#3822#5142#0" expanded="false" />
+            <element signature="e#3858#3913#0" expanded="false" />
+            <element signature="e#4010#4776#0" expanded="false" />
+            <element signature="e#4042#4540#0" expanded="false" />
+            <element signature="e#4095#4204#0" expanded="false" />
+            <element signature="e#4225#4344#0" expanded="false" />
+            <element signature="e#4365#4434#0" expanded="false" />
+            <element signature="e#4455#4522#0" expanded="false" />
+            <element signature="e#4585#4724#0" expanded="false" />
+            <element signature="e#4817#4901#0" expanded="false" />
+            <element signature="e#4943#5132#0" expanded="false" />
+            <element signature="e#6159#6247#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/KulittxtPage/src/KulittxtPage/Library/TextHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="31" selection-start="2099" selection-end="2099" vertical-scroll-proportion="-17.653847" vertical-offset="731" max-vertical-offset="4369">
+          <folding>
+            <element signature="e#308#545#0" expanded="true" />
+            <element signature="e#550#932#0" expanded="true" />
+            <element signature="e#636#702#0" expanded="false" />
+            <element signature="e#792#880#0" expanded="false" />
+            <element signature="e#1015#1433#0" expanded="true" />
+            <element signature="e#2484#3798#0" expanded="true" />
+            <element signature="e#2603#3770#0" expanded="false" />
+            <element signature="e#2711#3760#0" expanded="false" />
+            <element signature="e#2761#2969#0" expanded="false" />
+            <element signature="e#2986#3134#0" expanded="false" />
+            <element signature="e#3196#3760#0" expanded="false" />
+            <element signature="e#3231#3344#0" expanded="false" />
+            <element signature="e#3399#3746#0" expanded="false" />
+            <element signature="e#4069#5269#0" expanded="true" />
+            <element signature="e#4136#5036#0" expanded="false" />
+            <element signature="e#4210#5026#0" expanded="false" />
+            <element signature="e#4369#4944#0" expanded="false" />
+            <element signature="e#4483#4671#0" expanded="false" />
+            <element signature="e#4688#4944#0" expanded="false" />
+            <element signature="e#5046#5241#0" expanded="false" />
+            <element signature="e#5085#5230#0" expanded="false" />
+            <element signature="e#5759#6820#0" expanded="true" />
+            <element signature="e#5837#5909#0" expanded="false" />
+            <element signature="e#5949#6011#0" expanded="false" />
+            <element signature="e#6299#6786#0" expanded="false" />
+            <element signature="e#6353#6776#0" expanded="false" />
+            <element signature="e#6569#6776#0" expanded="false" />
+            <element signature="e#7068#9007#0" expanded="true" />
+            <element signature="e#7479#7654#0" expanded="false" />
+            <element signature="e#8051#8270#0" expanded="false" />
+            <element signature="e#8785#8978#0" expanded="false" />
+            <element signature="e#9456#9806#0" expanded="true" />
+            <element signature="e#9568#9626#0" expanded="false" />
+            <element signature="e#9636#9778#0" expanded="false" />
+            <element signature="e#10045#10630#0" expanded="true" />
+            <element signature="e#10109#10431#0" expanded="false" />
+            <element signature="e#10302#10431#0" expanded="false" />
+            <element signature="e#10441#10520#0" expanded="false" />
+            <element signature="e#10713#11072#0" expanded="true" />
+            <element signature="e#11077#13847#0" expanded="true" />
+            <element signature="e#11354#11472#0" expanded="false" />
+            <element signature="e#11641#11946#0" expanded="false" />
+            <element signature="e#11732#11936#0" expanded="false" />
+            <element signature="e#12333#13467#0" expanded="false" />
+            <element signature="e#12519#12642#0" expanded="false" />
+            <element signature="e#12680#13083#0" expanded="false" />
+            <element signature="e#12814#12924#0" expanded="false" />
+            <element signature="e#13259#13427#0" expanded="false" />
+            <element signature="e#13361#13427#0" expanded="false" />
+            <element signature="e#13509#13705#0" expanded="false" />
+            <element signature="e#13555#13695#0" expanded="false" />
+            <element signature="e#14326#14990#0" expanded="true" />
+            <element signature="e#14537#14614#0" expanded="false" />
+            <element signature="e#14743#14947#0" expanded="false" />
+            <element signature="e#14859#14947#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="19" selection-start="961" selection-end="961" vertical-scroll-proportion="0.83374083" vertical-offset="253" max-vertical-offset="1071">
+          <folding />
         </state>
       </provider>
     </entry>
